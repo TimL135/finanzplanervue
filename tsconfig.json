@@ -32,7 +32,9 @@
     "src/**/*.tsx",
     "src/**/*.vue",
     "tests/**/*.ts",
-    "tests/**/*.tsx"
+    "tests/**/*.tsx",
+    "src/components/PlanTable.vue",
+    "src/components/PlanCarousel.vue"
   ],
   "exclude": [
     "node_modules"
